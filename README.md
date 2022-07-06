@@ -19,13 +19,12 @@ $ npm install
 $ npm start
 ```
 
-### With Yarn
+### Steps
 
-```sh
-$ git clone git@github.com:GorskiAnthony/tests-unitaires.git
-$ cd tests-unitaires
-$ yarn 
-$ yarn start
+Nous allons installer les packages Jest & Supertest.
+
+```shell
+npm install --save-dev jest supertest
 ```
 
 ---
